@@ -20,9 +20,9 @@ git clone https://github.com/maskiilovmai/lavalink.git
 - In addition to the above conditions, don't change anything. That maybe corrupt the file of Lavalink.
 - Make `Lavalink.jar` and `application.yml` same folder
 - Run 
-`sh
+```sh
 java -jar Lavalink.jar
-`
+```
 
 ## Hosting - Lưu trữ
 - You can deploy to [Heroku](https://www.heroku.com/), [Replit](https://replit.com/) and [Glitch](https://glitch.com/)

@@ -1,3 +1,6 @@
 ## Setup - Cài đặt
 
-- Clone this ``git clone https://github.com/maskiilovmai/lavalink.git``
+- Clone this 
+```sh
+git clone https://github.com/maskiilovmai/lavalink.git
+```

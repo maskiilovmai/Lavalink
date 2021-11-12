@@ -17,7 +17,12 @@ git clone https://github.com/maskiilovmai/lavalink.git
 3. After done, next step:
 - In `application.yml` you can change password, default 'youshallnotpass'
 - Address default '0.0.0.0'. That means you can connect it anywhere. You can change it if you understand its nature.
-- In addition to the above conditions, don't change anything. That maybe corrupt the file of Lavalink
+- In addition to the above conditions, don't change anything. That maybe corrupt the file of Lavalink.
+- Make `Lavalink.jar` and `application.yml` same folder
+- Run 
+`sh
+java -jar Lavalink.jar
+`
 
 ## Hosting - Lưu trữ
 - You can deploy to [Heroku](https://www.heroku.com/), [Replit](https://replit.com/) and [Glitch](https://glitch.com/)

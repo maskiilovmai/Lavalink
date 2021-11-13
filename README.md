@@ -26,7 +26,7 @@ java -jar Lavalink.jar
 4. Download with Console
 - `application.yml` file:
 ```sh
-crul https://raw.githubusercontent.com/freyacodes/Lavalink/master/LavalinkServer/application.yml.example --output application.yml
+curl https://raw.githubusercontent.com/freyacodes/Lavalink/master/LavalinkServer/application.yml.example --output application.yml
 ```
 - `Lavalink.jar` by [Freyacode](https://github.com/freyacodes):
 ```sh

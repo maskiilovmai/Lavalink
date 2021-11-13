@@ -50,6 +50,6 @@ run = "bash start.sh"
 1. Lavalink's port will always 443 in Repl.it.
 2. You need set secure to `true` in Repl.it.
 3. Default password is `youshallnotpass` if you not config `application.yml`.
-4. if your app is named `lavalink` and your repl username is `test` Rep.it will make HTTP to https://lavalink.test.repl.co
+4. if your app is named `lavalink` and your repl username is `test` Rep.it will make HTTP to `https://lavalink.test.repl.co`
 5. Copy this link and paste in HOST of bot, remove `https://` form the link was pasted.
 6. Run the bot and enjoy.

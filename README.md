@@ -25,4 +25,8 @@ java -jar Lavalink.jar
 ```
 
 ## Hosting - Lưu trữ
-- You can deploy to [Heroku](https://www.heroku.com/), [Replit](https://replit.com/) and [Glitch](https://glitch.com/)
+- You can deploy to:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/maskiilovmai/lavalink)
+
+[![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/maskiilovmai/lavalink)

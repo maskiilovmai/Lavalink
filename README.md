@@ -25,17 +25,17 @@ java -jar Lavalink.jar
 ```
 4. Download with Console
 - `application.yml` file:
-``sh
+```sh
 crul https://raw.githubusercontent.com/freyacodes/Lavalink/master/LavalinkServer/application.yml.example --output application.yml
-``
+```
 - `Lavalink.jar` by [Freyacode](https://github.com/freyacodes):
-``sh
+```sh
 curl https://github.com/freyacodes/Lavalink/releases/download/3.4/Lavalink.jar --output Lavalink.jar
-``
+```
 - Or `Lavalink.jar` by [Darren Nathanael](https://darrennathanael.com/)
-``sh
+```sh
 curl https://cdn.darrennathanael.com/jars/Lavalink.jar --output Lavalink.jar
-``
+```
 
 ## Hosting - Lưu trữ
 - You can deploy to:

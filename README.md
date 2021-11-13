@@ -35,4 +35,12 @@ curl https://cdn.darrennathanael.com/jars/Lavalink.jar --output Lavalink.jar
 
 ## Deploy and hosting in Replit - Triển khai và host trong Replit
 - STEP 1: You can deploy and archive to Replit, by clicking the button icon below:
+
 [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/maskiilovmai/lavalink)
+
+- STEP 2: Config `.repl` like in below:
+```sh
+language = "bash"
+run = "bash start.sh"
+```
+- STEP 3: Config `application.yml`, read [Configuration](https://github.com/maskiilovmai/lavalink#configuration---c%E1%BA%A5u-h%C3%ACnh)

@@ -23,7 +23,7 @@ git clone https://github.com/maskiilovmai/lavalink.git
 ```sh
 java -jar Lavalink.jar
 ```
-4. Download with Console
+4. For download with Console
 - `application.yml` file:
 ```sh
 curl https://raw.githubusercontent.com/freyacodes/Lavalink/master/LavalinkServer/application.yml.example --output application.yml
@@ -33,9 +33,6 @@ curl https://raw.githubusercontent.com/freyacodes/Lavalink/master/LavalinkServer
 curl https://cdn.darrennathanael.com/jars/Lavalink.jar --output Lavalink.jar
 ```
 
-## Hosting - Lưu trữ
-- You can deploy to:
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/maskiilovmai/lavalink)
-
+## Deploy and hosting in Replit - Triển khai và host trong Replit
+- STEP 1: You can deploy and archive to Replit, by clicking the button icon below:
 [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/maskiilovmai/lavalink)

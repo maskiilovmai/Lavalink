@@ -1,4 +1,4 @@
-<div align="center"><img src="https://darrennathanael.com/cdn/springtext.svg" alt="Logo" width="350" height="80">
+<div align="center"><img src="https://darrennathanael.com/cdn/springtext.svg" width="350px">
 
 <h1 align="center"><img src="https://darrennathanael.com/cdn/springboot.svg" width="30px"> Lavalink Server for deploy to Replit <img src="https://darrennathanael.com/cdn/springboot.svg" width="30px"></h1>
 

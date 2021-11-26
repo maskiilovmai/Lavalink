@@ -23,7 +23,7 @@ curl https://raw.githubusercontent.com/freyacodes/Lavalink/master/LavalinkServer
 
 #### 4. Sau khi cấu hình xong, hãy bấm **`Run`** để bắt đầu chạy Lavalink.
 
-# Lavalink.jar Source - Nguồn tham khảo thêm file Lavalink.jar
+# Lavalink.jar Sources
 1. Lavalink.jar bởi [Team City](https://ci.fredboat.com/)
 
 1. Lavalink.jar bởi [Freyacode](https://github.com/freyacodes/Lavalink/releases)

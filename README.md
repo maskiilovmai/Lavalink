@@ -1,7 +1,7 @@
-<h1 align="center"> Lavalink Server for deploy to Replit </h1>
+<h1 align="center"><img src="https://darrennathanael.com/cdn/springboot.svg" width="30px"> Lavalink Server for deploy to Replit <img src="https://darrennathanael.com/cdn/springboot.svg" width="30px"></h1>
 
 # Setup - Cài đặt
-<p align="center">ĐỐI VỚI ĐỐI TƯỢNG MUỐN TRIỂN KHAI LÊN REPLIT!</p>
+<p align="center">I.ĐỐI VỚI ĐỐI TƯỢNG MUỐN TRIỂN KHAI LÊN REPLIT!</p>
 
 1. Bấm vào biểu tượng Replit ở bên dưới để bắt đầu triển khai Lavalink lên Replit:
 
@@ -20,7 +20,7 @@ curl https://raw.githubusercontent.com/freyacodes/Lavalink/master/LavalinkServer
 
 4. Sau khi cấu hình xong, hãy bấm **`Run`** để bắt đầu chạy Lavalink.
 
-<p align="center">Discord music bot with dash board!</p>
+<p align="center">II.ĐỐI VỚI ĐỐI TƯỢNG MUỐN TRIỂN KHAI TRÊN LINUX/UBUNTU!</p>
 
 - Lavalink Server by [Freyacode](https://github.com/freyacodes) ([Lavalink.jar Releases](https://github.com/freyacodes/Lavalink/releases)). Choose the latest version.
 - Lavalink Server by [Darren Nathanael](https://darrennathanael.com/) ([Lavalink.jar](https://cdn.darrennathanael.com/jars/Lavalink.jar)).

@@ -23,6 +23,12 @@ curl https://raw.githubusercontent.com/freyacodes/Lavalink/master/LavalinkServer
 
 #### 4. Sau khi cấu hình xong, hãy bấm **`Run`** để bắt đầu chạy Lavalink.
 
+# Configuration - Cấu hình cho bot
+- Port luôn luôn là **`443`**
+- Password là bạn đã cấu hình ở `application.yml`, nếu bạn không cấu hình thì mặc sẽ là `youshallnotpass`
+- Host là link ở bảng điều khiển bên phải. VD: nếu tên dự án của bạn là `lavalink` còn tên tài khoản của bạn là `thomas` thì đường liên kết sẽ là `https://lavalink.thomas.repl.co`. Hãy xóa `https://`.
+- Secure bạn sẽ phải để sang `true` nếu bạn triển khai nó trên Replit.
+
 # Lavalink.jar Sources
 1. Lavalink.jar bởi [Team City](https://ci.fredboat.com/)
 

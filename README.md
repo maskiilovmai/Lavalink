@@ -23,14 +23,13 @@ curl https://raw.githubusercontent.com/freyacodes/Lavalink/master/LavalinkServer
 
 - ***⚠ LƯU Ý ⚠***: Ngoài mục password ra bạn không được chỉnh sửa bất kể mục nào khác nếu bạn không có hiểu biết về nó, tránh làm hỏng toàn bộ mã nguồn.
 
+
 4. Sau khi cấu hình xong, hãy bấm **`Run`** để bắt đầu chạy Lavalink.
 
 <p align="center">II.ĐỐI VỚI ĐỐI TƯỢNG MUỐN TRIỂN KHAI TRÊN LINUX/UBUNTU!</p>
 
-- Lavalink Server by [Freyacode](https://github.com/freyacodes) ([Lavalink.jar Releases](https://github.com/freyacodes/Lavalink/releases)). Choose the latest version.
-- Lavalink Server by [Darren Nathanael](https://darrennathanael.com/) ([Lavalink.jar](https://cdn.darrennathanael.com/jars/Lavalink.jar)).
 
-## Configuration - Cấu hình
+#### Configuration - Cấu hình
 - By [Freyacode](https://github.com/freyacodes) ([application.yml.example](https://raw.githubusercontent.com/freyacodes/Lavalink/master/LavalinkServer/application.yml.example))
 - Rename `application.yml.example` to `application.yml`.
 3. After done, next step:

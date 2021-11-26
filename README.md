@@ -1,7 +1,26 @@
 <h1 align="center"> Lavalink Server for deploy to Replit </h1>
 
-## Setup - Cài đặt
+# Setup - Cài đặt
+<p align="center">Đối với đối tượng muốn triển khai lên Replit!</p>
 
+1. Bấm vào biểu tượng Replit ở bên dưới để bắt đầu triển khai Lavalink lên Replit:
+
+[![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/maskiilovmai/lavalink)
+
+2. Ở bên mục `CONSOLE` nhập lệnh bên dưới vào đó:
+
+```sh
+curl https://raw.githubusercontent.com/freyacodes/Lavalink/master/LavalinkServer/application.yml.example -o application.yml
+```
+
+3. Sau khi chạy xong, ở bên **File** sẽ có thêm file `application.yml`, với file này bạn có thể:
+- Chỉnh sửa mục **Password**, bạn có thể để password bất kì mà bạn muốn, nếu bạn không cài đặt, password mặc định sẽ là `youshallnotpass`.
+
+- ***⚠ LƯU Ý ⚠***: Ngoài mục password ra bạn không được chỉnh sửa bất kể mục nào khác nếu bạn không có hiểu biết về nó, tránh làm hỏng toàn bộ mã nguồn.
+
+4. Sau khi cấu hình xong hãy bấm **Run** để bắt đầu chạy Lavalink.
+
+<p align="center">Discord music bot with dash board!</p>
 
 - Lavalink Server by [Freyacode](https://github.com/freyacodes) ([Lavalink.jar Releases](https://github.com/freyacodes/Lavalink/releases)). Choose the latest version.
 - Lavalink Server by [Darren Nathanael](https://darrennathanael.com/) ([Lavalink.jar](https://cdn.darrennathanael.com/jars/Lavalink.jar)).
@@ -28,23 +47,3 @@ curl https://raw.githubusercontent.com/freyacodes/Lavalink/master/LavalinkServer
 ```sh
 curl https://cdn.darrennathanael.com/jars/Lavalink.jar --output Lavalink.jar
 ```
-
-## Deploy and hosting in Repl.it - Triển khai và host trong Repl.it
-- STEP 1: You can deploy and archive to Repl.it, by clicking the button icon below:
-
-[![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/maskiilovmai/lavalink)
-
-- STEP 2: Config `.repl` like in below:
-```sh
-language = "bash"
-run = "bash start.sh"
-```
-- STEP 3: Config `application.yml`, read [Configuration](https://github.com/maskiilovmai/lavalink#configuration---c%E1%BA%A5u-h%C3%ACnh)
-- STEP 4: After done, click 'RUN' and wait.
-- STEP 5: Config in your bot:
-1. Lavalink's port will always 443 in Repl.it.
-2. You need set secure to `true` in Repl.it.
-3. Default password is `youshallnotpass` if you not config `application.yml`.
-4. if your app is named `lavalink` and your repl username is `test` Rep.it will make HTTP to `https://lavalink.test.repl.co`
-5. Copy this link and paste in HOST of bot, remove `https://` form the link was pasted.
-6. Run the bot and enjoy.

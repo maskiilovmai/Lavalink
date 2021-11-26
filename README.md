@@ -8,7 +8,7 @@
 # Setup - Cài đặt
 #### 1. Bấm vào biểu tượng Replit ở bên dưới để bắt đầu triển khai Lavalink lên Replit:
 
-[![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/maskiilovmai/lavalink)
+[![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/maskiilovmai/Lavalink-Replit)
 
 #### 2. Ở bên mục `Console` nhập lệnh bên dưới vào đó:
 

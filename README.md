@@ -13,12 +13,12 @@
 curl https://raw.githubusercontent.com/freyacodes/Lavalink/master/LavalinkServer/application.yml.example -o application.yml
 ```
 
-3. Sau khi chạy xong, ở bên **File** sẽ có thêm file `application.yml`, với file này bạn có thể:
-- Chỉnh sửa mục **Password**, bạn có thể để password bất kì mà bạn muốn, nếu bạn không cài đặt, password mặc định sẽ là `youshallnotpass`.
+3. Sau khi chạy xong, ở bên `**File**` sẽ có thêm file `application.yml`, với file này bạn có thể:
+- Chỉnh sửa mục `**Password**`, bạn có thể để password bất kì mà bạn muốn, nếu bạn không cài đặt, password mặc định sẽ là `youshallnotpass`.
 
 - ***⚠ LƯU Ý ⚠***: Ngoài mục password ra bạn không được chỉnh sửa bất kể mục nào khác nếu bạn không có hiểu biết về nó, tránh làm hỏng toàn bộ mã nguồn.
 
-4. Sau khi cấu hình xong hãy bấm **Run** để bắt đầu chạy Lavalink.
+4. Sau khi cấu hình xong hãy bấm `**Run**` để bắt đầu chạy Lavalink.
 
 <p align="center">Discord music bot with dash board!</p>
 
